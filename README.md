@@ -7,7 +7,7 @@ Hello! I’m Nicholas Bardy, a self-taught AI researcher with a collection of op
 The first AI-native programming language—Lisp for wiring up prompts  
 🔗 https://github.com/nbardy/SynesthesiaLisp
 
-### 🔜 Coming Soon
+## 🔜 Coming Soon
 
 #### 📊 Shader Benchmarks for LLMs  
 An LLM benchmark for testing LLMs in visual programming  
