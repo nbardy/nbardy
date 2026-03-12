@@ -4,9 +4,12 @@
 Hello! I’m Nicholas Bardy, a self-taught AI researcher with a collection of open-source projects to share. 🚀
 
 # Agentic Development Tools
+
+### Unleashd
 ADE Swarm First *A*gent *D*evelopment *E*nvironment
 🔗 https://github.com/nbardy/unleashd
 
+### Oompa
 Oompa - Swarm Maagement Library (Runtime for Uhleashed)
 🔗 https://github.com/nbardy/oompa
 
